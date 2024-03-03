@@ -1,0 +1,28 @@
+body{
+    aspect-ratio: 16/9;
+}
+.container-bemvindo{
+    
+    margin-left: 120px;
+    font-size: 60px;
+    margin-top: 100px;
+    
+}
+.sidebar-subtitles{
+    margin-top: 90px;
+    margin-right: 750px;
+    margin-left: 50px;
+}
+
+.sidebar-proj{
+    margin-top: -350px;
+    top: 320px;
+    right: 300px;
+    margin-left: 900px;
+}
+
+.sidebar-contato{
+    margin-top: -300px;
+    margin-left: 1230px;
+    cursor: pointer;
+}
